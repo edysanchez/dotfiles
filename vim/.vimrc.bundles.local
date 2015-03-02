@@ -1,1 +1,3 @@
 Bundle 'veloce/vim-behat'
+Bundle 'joonty/vim-phpqa'
+Bundle 'joonty/vdebug'
