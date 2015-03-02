@@ -1,0 +1,3 @@
+let g:feature_filetype='behat'
+
+let g:behat_executables= ['bin/behat']
